@@ -1,2 +1,2 @@
 # data-is-king
-Data science and machine learning repository
+Public repository of Data Science and Machine Learning-related projects.
